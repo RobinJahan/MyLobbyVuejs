@@ -1,24 +1,17 @@
-# front-socket-vue
+# myLobby-vuejs
 
-## Project setup
+Front App of MyLobby, a little lobby template for multiplayer web games using web socketThis front app.
+
+You can try the web app on this url : https://mylobby-vuejs-c10a6.web.app
+
+For a local version, you must clone the backend app myLobby-nodejs : https://github.com/RobinJahan/MyLobbyNodejs.git
+
+## Local project setup
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
